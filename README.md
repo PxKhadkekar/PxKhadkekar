@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I'm Parth (PxKhadkekar)
 
-<!--
-**PxKhadkekar/PxKhadkekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer in the making, focused on building **real-world full stack applications** instead of collecting tutorials.
 
-Here are some ideas to get you started:
+### 🚀 What I’m currently doing
+- Learning **React.js** deeply (not just components, real patterns)
+- Building **MERN stack projects**
+- Practicing **Authentication & Authorization** (JWT, roles, protected routes)
+- Improving consistency with daily coding and project work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I know so far
+- **Languages:** JavaScript, Python (fundamentals)
+- **Frontend:** HTML, CSS, JavaScript, React (learning in progress)
+- **Backend:** Node.js, Express.js
+- **Database:** NoSQL (MongoDB)
+- **Concepts:** REST APIs, JWT authentication, basic RBAC
+- **Tools:** Git, GitHub, Postman
+
+### 📌 What I’m focused on next
+- Writing cleaner backend logic
+- Strengthening auth security patterns
+- Building fewer projects, but finishing them properly
+- Preparing for interviews with real-world knowledge, not shortcuts
+
+### 💬 Ask me about
+- JavaScript fundamentals
+- MERN stack basics
+- Authentication & authorization flows
+- How not to quit halfway through a project
+
+### 📫 How to reach me
+- Email: 2005parthkhadkekar@gmail.com
+- GitHub: https://github.com/PxKhadkekar
+- Linkedin : www.linkedin.com/in/parth-khadkekar-20b87027a
+
+
+---
+
+⚠️ Still learning. Still building. No pretending.
