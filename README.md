@@ -33,6 +33,11 @@ A developer in the making, focused on building **real-world full stack applicati
 - GitHub: https://github.com/PxKhadkekar
 - Linkedin : www.linkedin.com/in/parth-khadkekar-20b87027a
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)
+
+
 
 ---
 
