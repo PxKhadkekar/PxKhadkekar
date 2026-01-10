@@ -23,10 +23,10 @@
 ###
 
 🔭 I’m currently working on **MERN Stack Projects**  
-📚 I’m currently learning **React.js deeply + Authentication & Authorization (JWT, RBAC)**  
+📚 I’m currently learning **React.js**  
 💬 Ask me about **JavaScript, Node.js, HTML, CSS, and Backend Fundamentals**  
 🚀 Interested in **Full-Stack Development, Secure Web Applications, and Scalable Systems**  
-📫 How to reach me: **your-email@example.com**
+📫 How to reach me: 2005parthkhadkekar@gmail.com
 
 ###
 
