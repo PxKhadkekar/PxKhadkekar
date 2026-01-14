@@ -22,9 +22,8 @@
 
 ###
 
-🔭 I’m currently working on **MERN Stack Projects**  
-📚 I’m currently learning **React.js**  
-💬 Ask me about **JavaScript, Node.js, HTML, CSS, and Backend Fundamentals**  
+🔭 I’m currently working on **MERN Stack Projects**    
+💬 Ask me about **JavaScript, Node.js, React.js and Backend Fundamentals**  
 🚀 Interested in **Full-Stack Development, Secure Web Applications, and Scalable Systems**  
 📫 How to reach me: 2005parthkhadkekar@gmail.com
 
