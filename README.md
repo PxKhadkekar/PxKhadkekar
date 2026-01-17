@@ -53,8 +53,6 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 
-- GitHub: https://github.com/PxKhadkekar
-- Email: 2005parthkhadkekar@gmail.com
 - Linkedin : www.linkedin.com/in/parth-khadkekar-20b87027a
 ---
 
