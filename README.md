@@ -47,7 +47,7 @@
 - Building authentication systems the **right way**
 - Improving backend logic and API security
 - Completing projects instead of abandoning them halfway
-- Preparing for interviews with **practical knowledge**, not buzzwords
+- Preparing for interviews with  **practical knowledge**, not buzzwords
 
 ###
 
